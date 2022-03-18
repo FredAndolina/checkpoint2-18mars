@@ -1,0 +1,20 @@
+.name_title{
+    color: red;
+    font-size: 40px
+}
+
+.details_image{
+    width: 30%;
+}
+
+.card_detail{ 
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+        border: 2px solid black;
+        border-radius: 2%;
+        background-color: rgb(194, 196, 186);
+        box-shadow: 10px 5px 5px grey;
+    }
+
+

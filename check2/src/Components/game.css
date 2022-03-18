@@ -1,0 +1,42 @@
+.card{
+    margin: 0 auto;
+    color: red;
+    width: 60%;
+    height: 700px;
+    background-color: antiquewhite;
+    margin-top: 20px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+box-shadow: 5px 5px 15px 5px #000000;
+}
+
+.jeu{    
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+    width: 40%;
+    margin: 0 auto;
+    font-size: 30px;
+    color: black;
+}
+
+.jeu1{
+    width: 40%;
+    margin: 0 auto;
+    font-size: 30px;
+    color: black;
+}
+
+li{
+    list-style-type: none;
+}
+
+.image_principale{
+    width: 30%;
+    margin-top: 10px;
+    width: 50%;
+}
+
+.supp{
+    margin-top: 30px;
+}
+
+
